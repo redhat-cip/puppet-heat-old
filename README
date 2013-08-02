@@ -1,18 +1,7 @@
 puppet-heat
 This is the Heat module.
 
-WORK IN PROGRESS :
-
-✓ Basic structure
-✗ DB
-✓ Keystone (Users, Services, Endpoints)
-✓ Client
-✓ Heat-API
-✓ Heat-API-CFN
-✓ Heat-API-CW
-✓ Heat-Engine
-✓ An example of site.pp
-✗ Write Tests (in progress)
+New place: https://github.com/stackforge/puppet-heat
 
 
 License
